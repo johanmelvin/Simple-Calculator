@@ -1,5 +1,3 @@
-# Simple-Calculator
-A simple calculator using HTML CSS and Java Script
 # 🔢 Simple Calculator
 
 A simple and responsive calculator built with HTML, CSS, and JavaScript. This project performs basic arithmetic operations and is designed for beginners learning web development.
