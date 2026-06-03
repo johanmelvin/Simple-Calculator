@@ -19,8 +19,8 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript. This pr
 
 ## 📂 Project Structure
 
-calculator/
-├── index.html
+
+├── calc.html
 ├── style.css
 ├── script.js
 └── README.md
