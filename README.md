@@ -14,7 +14,7 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript. This pr
 ## 🛠️ Built With
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## 📂 Project Structure
