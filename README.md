@@ -2,6 +2,10 @@
 
 A simple and responsive calculator built with HTML, CSS, and JavaScript. This project performs basic arithmetic operations and is designed for beginners learning web development.
 
+## ▶️ LIVE DEMO
+[View Live Demo](https://johanmelvin.github.io/Simple-Calculator/)
+
+
 ## 🚀 Features
 
 - Addition
@@ -24,10 +28,6 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript. This pr
 ├── style.css
 ├── script.js
 └── README.md
-
-## ▶️ Run Locally
-
-
 
 ## 👨‍💻 Author
 
